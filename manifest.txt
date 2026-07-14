@@ -8,9 +8,8 @@ Lavadash.json
 obstacle.json
 pond.json
 rickety.json
-rock1.json
-rock2.json
-rock3.json
+rockleft.json
+rockright.json
 spinner.json
 tightrope.json
 unstab.json
